@@ -48,3 +48,4 @@ C:\Users\Samuel Hossain\Desktop\Repos\ASP.NET\ASP.NET\ASP.NET\bin\Debug\net8.0\r
 C:\Users\Samuel Hossain\Desktop\Repos\ASP.NET\ASP.NET\ASP.NET\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
 C:\Users\Samuel Hossain\Desktop\Repos\ASP.NET\ASP.NET\ASP.NET\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
 C:\Users\Samuel Hossain\Desktop\Repos\ASP.NET\ASP.NET\ASP.NET\obj\Debug\net8.0\ASP.NET.csproj.Up2Date
+C:\Users\Samuel Hossain\Desktop\Repos\ASP.NET\ASP.NET\ASP.NET\obj\Debug\net8.0\ASP.NET.sourcelink.json
