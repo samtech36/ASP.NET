@@ -19,6 +19,7 @@ public class ProductController : Controller
         return View(products);
     }
 
+    //View product method
     public IActionResult ViewProduct(int id)
     {
         var product = repo.GetProduct(id);
